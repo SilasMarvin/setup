@@ -1,6 +1,5 @@
 [options]
-    colorscheme = "gruvbox"
-    colorscheme_bg = "dark"
+    colorscheme = "material"
     enable_guicolors = true
 
     # Statusline options
@@ -37,6 +36,10 @@
 [[layers]]
     name = "core"
     enable_smooth_scrolling = false
+
+
+[[layers]]
+  name = "colorscheme"
 
 
 [[layers]]
